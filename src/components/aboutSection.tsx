@@ -18,11 +18,10 @@ export function AboutSection() {
 							viewport={{ once: true }}
 							className="text-gray-400 text-lg sm:text-xl leading-relaxed"
 						>
-							Hello! I&apos;m SanTzu Rajkumar, a passionate AI Software
-							Developer with a strong focus on developing cutting-edge search
-							and recommendation systems. I have a degree in Computer
-							Applications, I specialize in Search, Recommendation, and
-							Information Retrieval.
+							Hello! I&apos;m Sanju Rajkumar, a passionate AI Software Developer
+							with a strong focus on developing cutting-edge search and
+							recommendation systems. I have a degree in Computer Applications,
+							I specialize in Search, Recommendation, and Information Retrieval.
 						</motion.p>
 						<motion.p
 							variants={fadeInVariants}
@@ -87,7 +86,7 @@ export function AboutSection() {
 						className="rounded-lg overflow-hidden shadow-lg border border-gray-700"
 					>
 						<img
-							src="/images/recommendation_engine_diagram.png" // Replace with actual image path
+							src="/aboutMePortfolio.png"
 							alt="Sai Krishna"
 							className="w-full h-auto object-cover"
 						/>
