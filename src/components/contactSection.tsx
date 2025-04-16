@@ -43,23 +43,23 @@ export function ContactSection() {
 							<div className="flex items-center gap-4">
 								<Linkedin className="w-6 h-6 text-gray-400" />
 								<a
-									href="https://www.linkedin.com/in/yourprofile" // Replace
+									href="https://www.linkedin.com/in/satzu-rk" // Replace
 									target="_blank"
 									rel="noopener noreferrer"
 									className="text-blue-400 hover:text-blue-300 transition-colors duration-200 text-lg sm:text-xl"
 								>
-									linkedin.com/in/satzurajkumar
+									linkedin.com/satzu-rk
 								</a>
 							</div>
 							<div className="flex items-center gap-4">
 								<Github className="w-6 h-6 text-gray-400" />
 								<a
-									href="https://github.com/yourusername" // Replace
+									href="https://github.com/satzurajkumar" // Replace
 									target="_blank"
 									rel="noopener noreferrer"
 									className="text-blue-400 hover:text-blue-300 transition-colors duration-200 text-lg sm:text-xl"
 								>
-									github.com/satzu_rk
+									github.com/satzurajkumar
 								</a>
 							</div>
 						</motion.div>
