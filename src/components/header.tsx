@@ -7,7 +7,7 @@ export function Header() {
 					href="#"
 					className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500"
 				>
-					S-Tzu
+					SaTzu
 				</a>
 				<nav>
 					<ul className="flex space-x-6">
