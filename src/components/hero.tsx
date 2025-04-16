@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { ChevronRight } from "lucide-react";
 
 export function HeroSection() {
-	const introText = `Hi, I'm SanTzu Rajkumar, an AI Software Developer.`;
+	const introText = `Hi, I'm Sanju Rajkumar, an AI Software Developer.`;
 	const typedIntroText = useTypewriter(introText);
 
 	return (

@@ -55,13 +55,19 @@ export function AboutSection() {
 									Machine Learning
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
+									Pytorch
+								</div>
+								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
 									TensorFlow
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
-									PyTorch
+									vector embedding
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
 									Elasticsearch
+								</div>
+								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
+									Vector databases
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
 									React
@@ -70,10 +76,10 @@ export function AboutSection() {
 									Next.js
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
-									SQL/NoSQL
+									Node.js
 								</div>
 								<div className="bg-gray-800/50 border border-gray-700 rounded-lg p-3 text-gray-300">
-									Hugging Face
+									SQL/NoSQL
 								</div>
 							</div>
 						</motion.div>
@@ -86,8 +92,8 @@ export function AboutSection() {
 						className="rounded-lg overflow-hidden shadow-lg border border-gray-700"
 					>
 						<img
-							src="/aboutMePortfolio.png"
-							alt="Sai Krishna"
+							src="./aboutMePortfolio.png"
+							alt="SaTzu RK"
 							className="w-full h-auto object-cover"
 						/>
 					</motion.div>
