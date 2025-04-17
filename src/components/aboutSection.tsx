@@ -4,13 +4,13 @@ import { fadeInVariants } from "@/components/helperFunct/helper";
 
 export function AboutSection() {
 	return (
-		<section id="about" className="py-16 md:py-24 bg-gray-900">
+		<section id="about" className="py-16 md:py-24 bg-gray-900 ">
 			<div className="container mx-auto">
 				<h2 className="text-3xl sm:text-4xl font-bold text-white mb-8 text-center">
 					About Me
 				</h2>
 				<div className="grid md:grid-cols-2 gap-12 items-center">
-					<div>
+					<div className="p-4">
 						<motion.p
 							variants={fadeInVariants}
 							initial="hidden"
@@ -89,7 +89,7 @@ export function AboutSection() {
 						initial="hidden"
 						whileInView="visible"
 						viewport={{ once: true }}
-						className="rounded-lg overflow-hidden shadow-lg border border-gray-700"
+						className="rounded-lg overflow-hidden shadow-lg border border-gray-700 p-4"
 					>
 						<img
 							src="./aboutMePortfolio.png"

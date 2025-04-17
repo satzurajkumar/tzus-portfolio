@@ -7,8 +7,8 @@ import { Button } from "./ui/button";
 
 export function ContactSection() {
 	return (
-		<section id="contact" className="py-16 md:py-24 bg-gray-900">
-			<div className="container mx-auto">
+		<section id="contact" className="py-16 md:py-24 bg-gray-900 ">
+			<div className="container mx-auto p-4">
 				<h2 className="text-3xl sm:text-4xl font-bold text-white mb-8 text-center">
 					Contact Me
 				</h2>
