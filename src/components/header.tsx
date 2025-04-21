@@ -1,7 +1,7 @@
 // Header Component
 export function Header() {
 	return (
-		<header className="py-6">
+		<header>
 			<div className="container mx-auto flex items-center justify-between">
 				<a
 					href="#"
