@@ -13,7 +13,7 @@ export function HeroSection() {
 		<div className="flex flex-col min-h-screen">
 			<Header />
 
-			<section className=" flex-1 py-16 md:py-24 my-auto ">
+			<section className="flex flex-col flex-1 items-center justify-center py-6 md:py-8 ">
 				<div className="container mx-auto text-center">
 					<motion.h1
 						variants={fadeInVariants}
