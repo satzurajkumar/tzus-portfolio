@@ -2,7 +2,7 @@
 
 import React from "react";
 
-import { Header } from "@/components/header";
+// import { Header } from "@/components/header";
 import { HeroSection } from "@/components/hero";
 import { AboutSection } from "@/components/aboutSection";
 import { ProjectsSection } from "@/components/projectsSection";
@@ -11,8 +11,7 @@ import { ContactSection } from "@/components/contactSection";
 // Main App Component
 const App = () => {
 	return (
-		<div className="bg-gray-950 min-h-screen p-6">
-			<Header />
+		<div className="bg-gray-950 p-6">
 			<main>
 				<HeroSection />
 				<AboutSection />

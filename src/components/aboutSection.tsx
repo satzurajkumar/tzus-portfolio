@@ -4,7 +4,7 @@ import { fadeInVariants } from "@/components/helperFunct/helper";
 
 export function AboutSection() {
 	return (
-		<section id="about" className="py-16 md:py-24 bg-gray-900 ">
+		<section id="about" className=" py-16 md:py-20 bg-gray-900">
 			<div className="container mx-auto">
 				<h2 className="text-3xl sm:text-4xl font-bold text-white mb-8 text-center">
 					About Me
