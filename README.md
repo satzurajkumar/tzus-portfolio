@@ -27,6 +27,8 @@ TypeScript
 
 TailwindCSS for styling
 
+Framer Motion for animation
+
 github pages for deployment
 
 🚀 Features
