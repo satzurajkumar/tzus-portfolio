@@ -3,7 +3,7 @@
 > A sleek, responsive portfolio built with Next.js (App Router) and TypeScript.  
 > Showcasing my work in **Recommendation Systems**, **Search Infrastructure**, and **Scalable Engineering**.
 
-**Live Demo** → [your-portfolio-site.com](https://your-portfolio-site.com)  
+**Live Demo** → [Tzu's-portfolio-site.com]( https://satzurajkumar.github.io/tzus-portfolio/)  
 **Specialties** → Recommendation Engines | Semantic Search | ML Systems
 
 ---
