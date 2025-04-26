@@ -65,7 +65,7 @@ Icons/Images | Lucide Icons, Next.js Image
 
 
 # 📖 About Me
-### ! I'm deeply passionate about building intelligent, scalable systems — particularly around:
+### I'm deeply passionate about building intelligent, scalable systems — particularly around:
 
 Personalization and Recommendation Engines
 
