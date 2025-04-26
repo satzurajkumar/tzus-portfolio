@@ -1,7 +1,16 @@
 # 🧠 Developer Portfolio – Next.js + TypeScript
 
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+
 > A sleek, responsive portfolio built with Next.js (App Router) and TypeScript.  
 > Showcasing my work in **Recommendation Systems**, **Search Infrastructure**, and **Scalable Engineering**.
+
+**Live Demo** → [your-portfolio-site.com](https://your-portfolio-site.com)  
+**Specialties** → Recommendation Engines | Semantic Search | ML Systems
+
+---
 
 **Live Demo** → [Tzu's-portfolio-site.com]( https://satzurajkumar.github.io/tzus-portfolio/)  
 **Specialties** → Recommendation Engines | Semantic Search | ML Systems
