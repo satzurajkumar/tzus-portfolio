@@ -1,3 +1,18 @@
+# 🧠 Developer Portfolio – Next.js + TypeScript
+
+> A sleek, responsive portfolio built with Next.js (App Router) and TypeScript.  
+> Showcasing my work in **Recommendation Systems**, **Search Infrastructure**, and **Scalable Engineering**.
+
+**Live Demo** → [your-portfolio-site.com](https://your-portfolio-site.com)  
+**Specialties** → Recommendation Engines | Semantic Search | ML Systems
+
+---
+
+<!-- Then continue with your full detailed README below -->
+
+
+
+
 🧠 My Portfolio – Built with Next.js & TypeScript
 Welcome to my personal portfolio!
 I'm a developer specializing in Recommendation Engines and Search Systems, and this site showcases my work, skills, and the projects I've been passionate about.
