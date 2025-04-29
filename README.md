@@ -55,12 +55,14 @@ SEO | Next.js Metadata API
 Icons/Images | Lucide Icons, Next.js Image
 
 # 📂 Project Structure
+```
 /app            - Pages and routes
 /components     - Reusable UI components
 /lib            - Utility functions and helpers
 /public         - Static assets
 /styles         - Global CSS
 /types          - TypeScript types and interfaces
+```
 
 
 
