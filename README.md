@@ -78,3 +78,8 @@ Vector Search, Embeddings, Semantic Retrieval
 Large-Scale Data Processing and Optimization
 
 I love blending ML, backend engineering, and scalable frontend design into seamless user experiences.
+
+
+# Future Plans:
+### Add snap scoll feature for easy scroll action
+### recommendation engine demo to site visitors
