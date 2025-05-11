@@ -21,7 +21,7 @@ I'm a developer specializing in Recommendation Engines and Search Systems, and t
 
 Built with:
 
-Next.js (App Router)
+Next.js 
 
 TypeScript
 
@@ -46,7 +46,7 @@ SEO Friendly — Structured metadata and open graph tags.
 
 # 🛠️ Tech Stack
 ## Category | Tech
-Framework | Next.js 14 (App Router)
+Framework | Next.js 
 Language | TypeScript
 Styling | TailwindCSS
 Hosting | Vercel
